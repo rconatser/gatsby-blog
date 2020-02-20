@@ -3,7 +3,7 @@ module.exports = {
     title: `Testing Blogs with Gatsby`,
     author: `Rachel Conatser`,
     description: `A starter blog testing what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://gatsby-blog-2521681135.gtsb.io/`,
   },
   plugins: [
     {
